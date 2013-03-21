@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "2.1.*",
+        "symfony/framework-bundle": ">=2.1.*,<2.3",
         "knplabs/knp-menu": ">=1.0",
         "knplabs/knp-menu-bundle": "1.1.*",
         "symfony-cmf/routing-extra-bundle": "dev-master",
